@@ -3,98 +3,118 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Оформление</title>
+    <title>Названия статей</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #1c1c1c;
             color: white;
-            margin: 0;
-            padding: 0;
+            padding: 20px;
         }
         .container {
-            padding: 20px;
+            max-width: 600px;
+            margin: 0 auto;
         }
         .title {
             font-size: 24px;
+            font-weight: bold;
             margin-bottom: 20px;
         }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section-title {
-            font-size: 18px;
+        .item {
+            border: 1px solid #444;
+            padding: 10px;
             margin-bottom: 10px;
+            border-radius: 5px;
+            background-color: #333;
         }
-        .section-content {
+        .item-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .item-content {
             font-size: 16px;
-            line-height: 1.5;
         }
-        .highlight-red {
-            color: red;
-        }
-        .highlight-green {
+        .correct {
             color: green;
         }
-        .highlight-bold {
-            font-weight: bold;
-        }
-        @media (max-width: 600px) {
-            .title {
-                font-size: 20px;
-            }
-            .section-title {
-                font-size: 16px;
-            }
-            .section-content {
-                font-size: 14px;
-            }
+        .incorrect {
+            color: red;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="title">Названия статей</div>
-        <div class="section">
-            <div class="section-title">2.1 Названия НЕ переводятся</div>
-            <div class="section-content">
-                <span class="highlight-red">✘ КолонкаМен</span> <span class="highlight-green">✔ СпикерМен</span><br>
-                <span class="highlight-red">✘ ДжиЧеловек</span> <span class="highlight-green">✔ ДжиМен</span>
+        <div class="item">
+            <div class="item-title">2.1</div>
+            <div class="item-content">
+                Названия <span class="incorrect">НЕ переводятся</span><br>
+                <span class="incorrect">КолонкаМен</span> <span class="correct">СпикерМен</span><br>
+                <span class="incorrect">ДжиЧеловек</span> <span class="correct">ДжиМен</span>
             </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.2 Название выбирается исходя из канона автора</div>
-            <div class="section-content">
-                <span class="highlight-red">✘ Скибидист</span> <span class="highlight-green">✔ Скибиди Туалет</span><br>
-                <span class="highlight-red">✘ ДжиМен туалет</span> <span class="highlight-green">✔ G-Туалет</span>
+        <div class="item">
+            <div class="item-title">2.2</div>
+            <div class="item-content">
+                Название выбирается исходя из канона автора<br>
+                <span class="incorrect">Скибидист</span> <span class="correct">Скибиди Туалет</span><br>
+                <span class="incorrect">ДжиМен туалет</span> <span class="correct">G-Туалет</span>
             </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.3 Если канонического названия нет, выбирается наиболее <span class="highlight-bold">популярное</span> и <span class="highlight-bold">часто встречаемое</span></div>
+        <div class="item">
+            <div class="item-title">2.3</div>
+            <div class="item-content">
+                Если канонического названия нет, выбирается наиболее <strong>популярное</strong> и <strong>часто встречаемое</strong>
+            </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.4 Название не должно быть слишком длинным (30+ символов)</div>
+        <div class="item">
+            <div class="item-title">2.4</div>
+            <div class="item-content">
+                Название не должно быть слишком длинным (30+ символов)
+            </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.5 Профессии и особенности (диджей, пыточный, камикадзе) пишутся после расы, с маленькой буквы</div>
+        <div class="item">
+            <div class="item-title">2.5</div>
+            <div class="item-content">
+                Профессии и особенности (диджей, пыточный, камикадзе) пишутся после расы, с маленькой буквы
+            </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.6 Ванны, писсуары, называются как: Скибиди ванна, Скибиди писсуар и др.</div>
+        <div class="item">
+            <div class="item-title">2.6</div>
+            <div class="item-content">
+                Ванны, писсуары, называются как: Скибиди ванна, Скибиди писсуар и др.
+            </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.7 Если отличий нет, в названии пишется вид оружия (с двумя пушками, с лазерами) после расы</div>
+        <div class="item">
+            <div class="item-title">2.7</div>
+            <div class="item-content">
+                Если отличий нет, в названии пишется вид оружия (с двумя пушками, с лазерами) после расы
+            </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.8 Приставка Титан пишется без дефиса (Титан КамераМен)</div>
+        <div class="item">
+            <div class="item-title">2.8</div>
+            <div class="item-content">
+                Приставка Титан пишется без дефиса (Титан КамераМен)
+            </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.9 Суффиксы Мен / Вумен пишутся с большой буквы</div>
+        <div class="item">
+            <div class="item-title">2.9</div>
+            <div class="item-content">
+                Суффиксы Мен / Вумен пишутся с большой буквы
+            </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.10 Суффикс Паразит пишется с маленькой буквы</div>
+        <div class="item">
+            <div class="item-title">2.10</div>
+            <div class="item-content">
+                Суффикс Паразит пишется с маленькой буквы
+            </div>
         </div>
-        <div class="section">
-            <div class="section-title">2.11 Таббер и версии (1.0, 2.0 и т.д.) создаются только для одного и того же персонажа (если персонажи похожи но не являются одним и тем же, таббер НЕ добавляется)</div>
+        <div class="item">
+            <div class="item-title">2.11</div>
+            <div class="item-content">
+                Таббер и версии (1.0, 2.0 и т.д.) создаются только для одного и того же персонажа (если персонажи похожи но не являются одним и тем же, таббер НЕ добавляется)
+            </div>
         </div>
     </div>
 </body>
