@@ -1,0 +1,151 @@
+/***************************** УЧАСТНИКИ БОЛЬШЕ 500 ПРАВОК ***********************/
+a[href$=":Adilet_Kerimbek"], a[href$="/Adilet_Kerimbek"], a[href$=":Adilet%20Kerimbek"], a[href$="/Adilet%20Kerimbek"],
+a[href$=":Sanych19"], a[href$="/Sanych19"],
+a[href$=":Paska35765866%26"], a[href$="/Paska35765866%26"], a[href$=":Paska35765866&"], a[href$="/Paska35765866&"],
+a[href$=":MaxonToilet"], a[href$="/MaxonToilet"], a[href$=":MaxonToilet"], a[href$="/MaxonToilet"]
+{
+	font-weight:bold;
+	color: #ff0000 !important; 
+	background: -webkit-linear-gradient(330deg, #005e3a, #ab0000);
+	background-image: url(https://static.wikia.nocookie.net/minecraftcreepypasta/images/c/c1/7F1D60C5-3C7C-4F1B-83A1-F49505A6D22F-2.gif/revision/latest?cb=20210522143739&path-prefix=ru) !important;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-shadow: none !important;
+}
+
+/***************************** УЧАСТНИКИ БОЛЬШЕ 1000 ПРАВОК ***********************/
+a[href$="%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80234"], a[href$="/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80234"],
+a[href$="Shadow_noir777"], a[href$="/Shadow_noir777"], a[href$="Shadow%20noir777"], a[href$="/Shadow%20noir777"]
+{
+	font-weight:bold;
+	color: #ff0000 !important; 
+	background: -webkit-linear-gradient(330deg, #005e3a, #ab0000);
+	background-image: url(https://static.wikia.nocookie.net/skibidi-tualet/images/7/75/Blue_onlinegiftools.gif/revision/latest?cb=20240207172127&format=original) !important;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-shadow: none !important;
+}
+
+/********************* Bureaucrats **********************/
+/*
+a[href$=":JestXFots"], a[href$="/JestXFots"]
+{
+    font-weight:bold;
+    color: #FFA343 !important;
+    text-shadow: 0 0 5px #FFA343 !important;
+
+    background: -webkit-linear-gradient(330deg, #005e3a, #00945b);
+    background-image: url(https://static.wikia.nocookie.net/minecraftcreepypasta/images/c/c1/7F1D60C5-3C7C-4F1B-83A1-F49505A6D22F-2.gif/revision/latest?cb=20210522143739&path-prefix=ru) !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+a[href$=":JestXFots"] ~ .EntityHeader_middot__39-65:after
+{
+    content: "💡 Бюрократ";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #FFA343;
+    font-weight: 700;
+    border: 1px solid #FFA343;
+    border-radius:5px;
+}
+**********************/
+/******************** Админы **********************/
+a[href$=":Fnafer_83"], a[href$="/Fnafer_83"], a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"],
+a[href$="DeVanYa"], a[href$="/DeVanYa"]
+{
+    font-weight:bold;
+    color: #07fd30 !important;
+    text-shadow: 0 0 5px #07fd30 !important;
+
+    background: -webkit-linear-gradient(330deg, #005e3a, #00945b);
+    background-image: url(https://static.wikia.nocookie.net/minecraftcreepypasta/images/7/73/7F1D60C5-3C7C-4F1B-83A1-F49505A6D22F.gif/revision/latest/scale-to-width-down/400?cb=20210521160002&path-prefix=ru) !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+a[href$=":Fnafer%2083"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":DeVanYa"] ~ .EntityHeader_middot__39-65:after
+{
+    content: "⭐ Администратор";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #07fd30;
+    font-weight: 700;
+    border: 1px solid #07fd30;
+    border-radius:5px;
+}
+
+/******************** Модераторы **********************/
+
+a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"], a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
+/*a[href$=":Shadow_noir777"], a[href$="/Shadow_noir777"], a[href$=":Shadow%20noir777"], a[href$="/Shadow%20noir777"],
+*/
+a[href$=":Do_You_Understando%3F"], a[href$="/Do_You_Understando%3F"], a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"]
+{
+    font-weight:bold;
+    color: #7f54ff !important;
+    text-shadow: 0 0 5px #7f54ff !important;
+    background: -webkit-linear-gradient(330deg, #005e3a, #ab0000);
+    background-image: url(https://static.wikia.nocookie.net/skibidi-tualet/images/1/12/Purple.gif/revision/latest?cb=20240531175458) !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after,
+/*
+a[href$=":Shadow%20noir777"] ~ .EntityHeader_middot__39-65:after,
+*/
+a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
+{
+    content: "🔨 Модератор контента";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #7f54ff;
+    font-weight: 700;
+    border: 1px solid #7f54ff;
+    border-radius:5px;
+}
+
+/******************** Откатчики **********************/
+/*a[href$="Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"]*/
+/*a[href$=":08_FnafKot_80"], a[href$="/08_FnafKot_80"], a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"]*/
+a[href$="NRC_Aewuller"], a[href$="/NRC_Aewuller"],
+a[href$=":NRC%20Aewuller"], a[href$="/NRC%20Aewuller"],
+
+a[href$=":Veselkin_Recroot"], a[href$="/Veselkin_Recroot"],
+a[href$="Veselkin%20Recroot"], a[href$="/Veselkin%20Recroot"],
+
+a[href$=":Vootez"], a[href$="/Vootez"]
+{
+    font-weight:bold;
+    color: #cd3c48 !important;
+    text-shadow: 0 0 5px #cd3c48 !important;
+    background: -webkit-linear-gradient(330deg, #005e3a, #00945b);
+    background-image: url(https://static.wikia.nocookie.net/skibidi-tualet/images/7/7f/Red.gif/revision/latest?cb=20240531175943&format=original) !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/*a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after*/
+/*a[href$=":08%20FnafKot%2080"] ~ .EntityHeader_middot__39-65:after*/
+a[href$=":NRC%20Aewuller"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Veselkin%20Recroot"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after
+{
+    content: "🧹 Откатчик";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #cd3c48;
+    font-weight: 700;
+    border: 1px solid #cd3c48;
+    border-radius:5px;
+}
