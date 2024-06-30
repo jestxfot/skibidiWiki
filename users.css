@@ -15,7 +15,7 @@ a[href$="NRC_Aewuller"], a[href$="/NRC_Aewuller"],
 a[href$=":NRC%20Aewuller"], a[href$="/NRC%20Aewuller"],
 
 a[href$=":Veselkin_Recroot"], a[href$="/Veselkin_Recroot"],
-a[href$="Veselkin%20Recroot"], a[href$="/Veselkin%20Recroot"],
+a[href$="Veselkin%20Recroot"], a[href$="/Veselkin%20Recroot"]
 {
 	font-weight:bold;
 	color: #ff0000 !important; 
@@ -33,7 +33,7 @@ a[href$="Shadow_noir777"], a[href$="/Shadow_noir777"],
 a[href$="Shadow%20noir777"], a[href$="/Shadow%20noir777"],
 
 a[href$=":08_FnafKot_80"], a[href$="/08_FnafKot_80"],
-a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"],
+a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"]
 {
 	font-weight:bold;
 	color: #ff0000 !important; 
@@ -100,11 +100,11 @@ a[href$=":DeVanYa"] ~ .EntityHeader_middot__39-65:after
 }
 
 /******************** Модераторы **********************/
+a[href$=":Springtrapfnaf123456"],
+a[href$="/Springtrapfnaf123456"],
 
-a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"], a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
-/*a[href$=":Shadow_noir777"], a[href$="/Shadow_noir777"], a[href$=":Shadow%20noir777"], a[href$="/Shadow%20noir777"],
-*/
-a[href$=":Do_You_Understando%3F"], a[href$="/Do_You_Understando%3F"], a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"]
+a[href$=":Do_You_Understando%3F"], a[href$="/Do_You_Understando%3F"],
+a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"]
 {
     font-weight:bold;
     color: #7f54ff !important;
@@ -114,10 +114,8 @@ a[href$=":Do_You_Understando%3F"], a[href$="/Do_You_Understando%3F"], a[href$=":
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
 a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after,
-/*
-a[href$=":Shadow%20noir777"] ~ .EntityHeader_middot__39-65:after,
-*/
 a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🔨 Модератор контента";
@@ -132,11 +130,11 @@ a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
 }
 
 /******************** Откатчики **********************/
-/*a[href$="Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"]*/
+a[href$=":InvaderZimfy"],
+a[href$="/InvaderZimfy"],
 
-a[href$=":InvaderZimfy"], a[href$="/InvaderZimfy"],
-
-a[href$=":Vootez"], a[href$="/Vootez"],
+a[href$=":Vootez"],
+a[href$="/Vootez"]
 {
     font-weight:bold;
     color: #cd3c48 !important;
@@ -147,8 +145,6 @@ a[href$=":Vootez"], a[href$="/Vootez"],
     -webkit-text-fill-color: transparent;
 }
 
-/*a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after*/
-/*a[href$=":08%20FnafKot%2080"] ~ .EntityHeader_middot__39-65:after*/
 a[href$=":NRC%20Aewuller"] ~ .EntityHeader_middot__39-65:after,
 a[href$=":Veselkin%20Recroot"] ~ .EntityHeader_middot__39-65:after,
 a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after
