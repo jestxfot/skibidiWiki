@@ -1,0 +1,27 @@
+/********************* Bureaucrats **********************/
+/*
+a[href$=":JestXFots"], a[href$="/JestXFots"]
+{
+    font-weight:bold;
+    color: #FFA343 !important;
+    text-shadow: 0 0 5px #FFA343 !important;
+
+    background: -webkit-linear-gradient(330deg, #005e3a, #00945b);
+    background-image: url(https://static.wikia.nocookie.net/minecraftcreepypasta/images/c/c1/7F1D60C5-3C7C-4F1B-83A1-F49505A6D22F-2.gif/revision/latest?cb=20210522143739&path-prefix=ru) !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+a[href$=":JestXFots"] ~ .EntityHeader_middot__39-65:after
+{
+    content: "💡 Бюрократ";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #FFA343;
+    font-weight: 700;
+    border: 1px solid #FFA343;
+    border-radius:5px;
+}
+**********************/
