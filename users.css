@@ -118,8 +118,7 @@ a[href$="/Vootez"]
     -webkit-text-fill-color: transparent;
 }
 
-a[href$=":NRC%20Aewuller"] ~ .EntityHeader_middot__39-65:after,
-a[href$=":Veselkin%20Recroot"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":InvaderZimfy"] ~ .EntityHeader_middot__39-65:after,
 a[href$=":Vootez"] ~ .EntityHeader_middot__39-65:after
 {
     content: "🧹 Откатчик";
