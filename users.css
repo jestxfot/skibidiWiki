@@ -1,4 +1,4 @@
-/***************************** УЧАСТНИКИ БОЛЬШЕ 500 ПРАВОК ***********************/
+/******************************* УЧАСТНИКИ БОЛЬШЕ 500 ПРАВОК ***************************/
 a[href$=":Adilet_Kerimbek"], a[href$="/Adilet_Kerimbek"],
 a[href$=":Adilet%20Kerimbek"], a[href$="/Adilet%20Kerimbek"],
 
@@ -26,8 +26,9 @@ a[href$="Veselkin%20Recroot"], a[href$="/Veselkin%20Recroot"]
 	text-shadow: none !important;
 }
 
-/***************************** УЧАСТНИКИ БОЛЬШЕ 1000 ПРАВОК ***********************/
-a[href$="%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80234"], a[href$="/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80234"],
+/******************************* УЧАСТНИКИ БОЛЬШЕ 1000 ПРАВОК *************************************/
+a[href$="%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80234"],
+a[href$="/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80234"],
 
 a[href$="Shadow_noir777"], a[href$="/Shadow_noir777"],
 a[href$="Shadow%20noir777"], a[href$="/Shadow%20noir777"],
@@ -44,8 +45,12 @@ a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"]
 	text-shadow: none !important;
 }
 
-/******************** Админы **********************/
-a[href$=":Fnafer_83"], a[href$="/Fnafer_83"], a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"],
+/******************************* УЧАСТНИКИ БОЛЬШЕ 2000 ПРАВОК ***************************/
+
+/***************************************** Админы *****************************************/
+a[href$=":Fnafer_83"], a[href$="/Fnafer_83"],
+a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"],
+
 a[href$="DeVanYa"], a[href$="/DeVanYa"]
 {
     font-weight:bold;
@@ -72,12 +77,11 @@ a[href$=":DeVanYa"] ~ .EntityHeader_middot__39-65:after
     border-radius:5px;
 }
 
-/******************** Модераторы **********************/
-a[href$=":Springtrapfnaf123456"],
-a[href$="/Springtrapfnaf123456"],
+/**************************************** Модераторы ****************************************/
+a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
 
-a[href$=":Do_You_Understando%3F"], a[href$="/Do_You_Understando%3F"],
-a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"]
+a[href$=":Do_You_Understando%3F"],a[href$="/Do_You_Understando%3F"],
+a[href$=":Do%20You%20Understando%3F"],a[href$="/Do%20You%20Understando%3F"]
 {
     font-weight:bold;
     color: #7f54ff !important;
@@ -102,12 +106,10 @@ a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
     border-radius:5px;
 }
 
-/******************** Откатчики **********************/
-a[href$=":InvaderZimfy"],
-a[href$="/InvaderZimfy"],
+/****************************************** Откатчики ****************************************/
+a[href$=":InvaderZimfy"], a[href$="/InvaderZimfy"],
 
-a[href$=":Vootez"],
-a[href$="/Vootez"]
+a[href$=":Vootez"], a[href$="/Vootez"]
 {
     font-weight:bold;
     color: #cd3c48 !important;
